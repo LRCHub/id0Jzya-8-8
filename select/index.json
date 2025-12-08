@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "踊ろうぜ",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-08T15:58:34.589005Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "踊ろうぜ",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_踊ろうぜ_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "踊ろうぜ",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_踊ろうぜ_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "踊ろうぜ",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_踊ろうぜ_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "空っぽなら、踊ろうぜ",
+      "artist": "Guiano x 理芽",
+      "has_synced": true,
+      "path": "select/04_空っぽなら、踊ろうぜ_Guiano_x_理芽.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "空っぽなら、踊ろうぜ",
+      "artist": "Guiano",
+      "has_synced": true,
+      "path": "select/05_空っぽなら、踊ろうぜ_Guiano.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "踊ろうぜ",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/06_踊ろうぜ_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "空っぽなら、踊ろうぜ / Guiano x 理芽",
+      "artist": "RIM",
+      "has_synced": true,
+      "path": "select/07_空っぽなら、踊ろうぜ___Guiano_x_理芽_RIM.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "踊ろうぜ; Odorōze",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/08_踊ろうぜ;_Odorōze_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "空っぽなら、踊ろうぜ",
+      "artist": "Guiano & 理芽",
+      "has_synced": true,
+      "path": "select/09_空っぽなら、踊ろうぜ_Guiano_&_理芽.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "踊ろうぜ",
+      "artist": "Yorushika (ヨルシカ)",
+      "has_synced": true,
+      "path": "select/10_踊ろうぜ_Yorushika_(ヨルシカ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "踊ろうぜ",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_踊ろうぜ_ヨルシカ.txt"
+    }
+  ]
+}
